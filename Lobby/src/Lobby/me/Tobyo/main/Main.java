@@ -6,10 +6,21 @@ public class Main extends JavaPlugin{
 
 	@Override
 	public void onEnable() {
-		// TODO Auto-generated method stub
+		listeners();
+		cmd();
 		super.onEnable();
 	}
 	
+	private void cmd() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private void listeners() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	@Override
 	public void onDisable() {
 		// TODO Auto-generated method stub
